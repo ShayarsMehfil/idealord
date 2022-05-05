@@ -5,7 +5,7 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-
+<style>/*<![CDATA[*/
 .feedback-container {
   background-color: white;
   width: 400px;
@@ -48,3 +48,4 @@
 .fa-star.active {
   color: gold;
 }
+/*]]>*/</style>
