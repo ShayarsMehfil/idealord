@@ -8,7 +8,7 @@ blockquote, .cmC i[rel="quote"]{position:relative;
 /*font-size:1rem; line-height:1.8em ;margin-top:5px; margin-bottom:5px;margin-left:0;margin-right:0; padding:8px 8px; border-left:3px solid #ff0000 */} 
 blockquote { background-image: url(https://blogger.googleusercontent.com/img/a/AVvXsEig6JjeycdUCsHveVEbLJa2CUPDvNNiWxuV0c219Fqj9cO2I3xDE1BfYKiAb9sPD6riEmkyfMct2XavDOcnE-bbGNYEf8cSBTlZQKbU3sjRYur8dYvjTUz-xF1xbJyUv7zjWZy6BGWX9_wCQ2UOUkPARkt_Lt-JEjFD8rV4S7CKPT-H4mt1kHMD-I28=s480); background-position: center; background-repeat: no-repeat;}
 blockquote { font-weight: 600;font-size: 130%;background-color: #00000017; border-radius: 9px 30px; box-shadow: rgb(191 165 255 / 63%) 2px 2px 10px 1px;}
-blockquote:before { content: "❛❛"; position: absolute; top: -15px; left: 0px; font-weight: 700;font-size: 80px;line-height: normal; opacity: .3;}
+blockquote:before { content: "❛❛"; position: absolute; top: 0px; left: 20px; font-weight: 700;font-size: 80px;line-height: normal; opacity: .2;}
 blockquote span.author {position: relative; display: block; text-align: right; margin-top: 5 px; color: #999;}
 blockquote span.author::before {display:block; content:""; position:absolute; top:50%; left:0; width:70%; height:1px; background:#ccc; z-index:1; }
 blockquote i {}
