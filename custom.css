@@ -41,7 +41,6 @@ blockquote.at-social-share .at-quote-share a.icon-whatsapp { background: #0f9806
 blockquote.at-social-share .at-quote-share a.icon-telegram { background: #32afed; font-size: 15px;box-shadow: 0 3px 0 0 #8ad1f5; border-radius: 15px; color: #fff; width: auto;} 
 blockquote.at-social-share .at-quote-share .copyit {box-shadow: 0 3px 0 0 #ff9f80; background: #cc3300 ; font-size: 15px; font-style: normal; border: none; border-radius: 15px; color: #fff; width: auto; } 
 blockquote.at-social-share .at-quote-share span.copied { background: #049a10; color: #fff; position: absolute; top: 0; left: 0; display: none; right: 0; text-align: center; padding: 1px; font-size: 15px; border-radius: 15px; }
-@media only screen and (max-width: 380px) { blockquote.at-social-share .at-quote-share a { padding: 4px 13px; } }
 span.q-share::after{content:&#39;Share:&#39;;color:#666} 
 .at-quote-share .copyit::after{content:&#39;COPY&#39;;color:#fff} 
 .at-quote-share .copyit span.copied::after{content:&#39;Copied&#39;;color:#fff}
